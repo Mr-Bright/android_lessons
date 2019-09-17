@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">birthday card</string>
+    <string name="str">Hello</string>
+    <string name="log">log</string>
+    <string name="sign">sign up</string>
+    <string name="words">Looking back\nacross the years\nwe come to\nrealize that\nit takes many\nbirthdays tomake us\nkind and wise\n\nGrowing older\nonly means that\nthe spirit grows serene\n\nHappy birthday!\n</string>
+</resources>

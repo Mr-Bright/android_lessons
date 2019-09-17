@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生日贺卡</string>
+    <string name="str">你好</string>
+    <string name="log">登录</string>
+    <string name="sign">注册</string>
+    <string name="words">回首以往\n我们渐渐认识到\n是这些众多的生日\n使我们\n宽厚仁爱\n更增智慧\n年龄的增长\n使心境愈趋宁静\n祝生日快乐!\n</string>
+</resources>
