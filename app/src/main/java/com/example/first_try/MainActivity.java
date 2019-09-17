@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Button button = findViewById(R.id.log);
         final EditText editText = findViewById(R.id.editText);
-        editText.setText("真的牛批");
+        editText.setText("牛批");
         /*
         Intent intent = new Intent(MainActivity.this,MusicServer.class);
         startService(intent);
